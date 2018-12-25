@@ -10,3 +10,7 @@ This is a repository of all the enlightning links I come across Technology
 
 ### GraphQL Starter App
 1. https://www.apollographql.com/docs/tutorial/introduction.html
+
+
+### NodeJS Best Practices
+1. https://github.com/i0natan/nodebestpractices
