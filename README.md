@@ -12,6 +12,9 @@ This is a repository of all the enlightning links I come across Technology
 1. https://www.apollographql.com/docs/tutorial/introduction.html
 2. https://github.com/Shopify/graphql-design-tutorial/blob/master/TUTORIAL.md
 
+### MS SQL
+1. Upload file : https://grokonez.com/node-js/nodejs-save-file-image-to-mysql-by-sequelize-with-blob-type
+
 
 ### NodeJS Best Practices
 1. https://github.com/i0natan/nodebestpractices
