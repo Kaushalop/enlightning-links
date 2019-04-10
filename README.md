@@ -20,3 +20,4 @@ This is a repository of all the enlightning links I come across Technology
 ### Famous NPM Modules
 
 1. Loading ENV Config : https://www.npmjs.com/package/dotenv
+2. React Framework : https://www.npmjs.com/package/next
