@@ -16,3 +16,7 @@ This is a repository of all the enlightning links I come across Technology
 ### NodeJS Best Practices
 1. https://github.com/i0natan/nodebestpractices
 2. Promises - https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8
+
+### Famous NPM Modules
+
+1. Loading ENV Config : https://www.npmjs.com/package/dotenv
